@@ -1,4 +1,4 @@
-package com.surendramaran.yolov8tflite
+package com.example.yolov8tflite
 
 data class BoundingBox(
     val x1: Float,
