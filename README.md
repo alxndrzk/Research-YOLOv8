@@ -10,7 +10,7 @@
 2. Pastikan model.tflite sudah ada di folder assets
 3. Build dan run menggunakan android studio
 
-# hasil
+# Hasil
 Riset model machine learning YOLOv8 untuk mendeteksi objek secara realtime menunjukkan hasil yang baik. Implementasi model ini sudah berhasil dilakukan, namun akurasi deteksinya masih perlu ditingkatkan untuk mencapai hasil yang maksimal. Berikut merupakan hasil screenshot percobaan :
 
 ![spoon](https://github.com/alxndrzk/Research-YOLOv8/assets/114162770/874a428c-04d8-4969-b598-dafbbb7b34f3)
